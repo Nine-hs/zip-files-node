@@ -1,0 +1,16 @@
+{
+  "name": "zipe-encrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver-zip-encryptable": "^1.0.10",
+    "archiver-zip-encrypted": "^1.0.10",
+    "zip-stream": "^4.1.0"
+  }
+}
